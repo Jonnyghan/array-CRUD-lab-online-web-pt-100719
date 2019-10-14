@@ -4,11 +4,11 @@ bruh
 end
 
 def create_an_array
-  
+  array = ["I", "Love", "Newcastle", "United"]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  array.unshift("bruh")
 end
 
 def add_element_to_start_of_array(array, element)
